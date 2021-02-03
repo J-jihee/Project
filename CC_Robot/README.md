@@ -1,4 +1,4 @@
-### CC Robot (Child Care Robot)
+# CC Robot (Child Care Robot)
 
 
 ## 기능  
@@ -17,5 +17,5 @@
     - 카메라 움직임 제어로 원하는 방향 출력 가능
 
 
-# robosapiens : 로봇제어와 관련된 py파일
-# wowwow : 안드로이드 앱 파일
+### robosapiens : 로봇제어와 관련된 py파일
+### wowwow : 안드로이드 앱 파일
