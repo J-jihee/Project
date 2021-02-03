@@ -1,6 +1,10 @@
 # CC Robot (Child Care Robot)
 
 
+
+### robosapiens : 로봇제어와 관련된 py파일
+### wowwow : 안드로이드 앱 파일
+
 ## 기능  
 
 - 놀이모드
@@ -15,7 +19,3 @@
 - 홈 CCTV 모드
     - 앱을 통해 CCTV 화면 출력
     - 카메라 움직임 제어로 원하는 방향 출력 가능
-
-
-### robosapiens : 로봇제어와 관련된 py파일
-### wowwow : 안드로이드 앱 파일
