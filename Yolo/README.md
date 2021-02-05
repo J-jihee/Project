@@ -1,5 +1,16 @@
 # Yolo v3을 이용한 눈 관상
 
+## 개발환경
+- google colab
+  - openCV 4.1.2
+  - Python 3.6.9
+  - yolo-v3
+ 
+ - VS code 
+  - Python 3.5.6
+  - Numpy 1.19.4
+ 
+
 ## 기능  
 - 사람의 얼굴에서 눈을 인식하여 해당하는 관상을 나타냄
 
