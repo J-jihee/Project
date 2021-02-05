@@ -1,5 +1,24 @@
 # CC Robot (Child Care Robot)
 
+## 개발환경
+- Raspberry pi3 RAM 4GB
+- Python 3.7.3
+- Android Studio 4.1 (API-8.0 / OREO)
+- Autodesk fusion360
+- firebase
+
+
+## 부품
+- WooWee Robosapien X
+- Webcam
+- IR Trans sensor
+- SG90 Servo motor
+- 5V DC motor
+- L298N motor driver
+- SZH-RPI101
+- Li-ion 배터리 (2200mAh 3.7V)
+
+
 ## 기능  
 
 - 놀이모드
