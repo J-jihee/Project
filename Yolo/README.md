@@ -6,7 +6,7 @@
   - Python 3.6.9
   - yolo-v3
  
- - VS code 
+- VS code 
   - Python 3.5.6
   - Numpy 1.19.4
  
