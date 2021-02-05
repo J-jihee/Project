@@ -14,7 +14,7 @@
   - 인원 : 5명    
   - 기간 : 2020.10.28 - 2020.11.25
   - 역할 : Android Studio을 이용한 전반적인 app 개발
-  - 프로젝트 세부내용 : [CC로봇](https://github.com/J-jihee/Project/tree/main/CC_Robot)
+  - 프로젝트 세부내용 : [CC Robot](https://github.com/J-jihee/Project/tree/main/CC_Robot)
    
 ## Yolo v3을 이용한 눈 관상찾기    
   - 개발환경/툴 : Yolo v3, Python3
