@@ -21,4 +21,4 @@
   - 인원 : 3명
   - 기간 : 2020.12.28 - 2020.12.31
   - 역할 : 데이터수집, python
-  - 프로젝트 세부내용 : 
+  - 프로젝트 세부내용 : [Yolo v3을 이용한 눈 관상찾기](https://github.com/J-jihee/Project/tree/main/Yolo)
