@@ -3,8 +3,7 @@
 ## 기능  
 - 사람의 얼굴에서 눈을 인식하여 해당하는 관상을 나타냄
 
-![그림1](https://user-images.githubusercontent.com/78400774/107000786-cd944380-67cb-11eb-9125-195c0cca448a.jpg)
-![그림2](https://user-images.githubusercontent.com/78400774/107000791-d08f3400-67cb-11eb-9c71-2a1bd68fe2d5.png)
+![캡처](https://user-images.githubusercontent.com/78400774/107000900-03d1c300-67cc-11eb-884c-86668a63c80c.PNG)
 
 
 ## Data set
