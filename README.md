@@ -7,7 +7,7 @@
   - 인원 : 3명   
   - 기간 : 2020.10.21 - 2020.11.02
   - 역할 : pyqt
-  - 프로젝트 세부내용 : 
+  - 프로젝트 세부내용 : [Monitoring System](https://github.com/J-jihee/Project/tree/main/Monitoring_system)
   
 ## RaspberyPi3 CC Robot(Child Care Robot)     
   - 개발환경/툴 : Raspbian, Android Studio, Python3.7, firebase, Autodesk fusion360     

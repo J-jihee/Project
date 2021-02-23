@@ -12,7 +12,7 @@
 - WooWee Robosapien X
 - Webcam
 - IR Trans sensor
-- SG90 Servo motor
+- SG90 Servo motora
 - 5V DC motor
 - L298N motor driver
 - SZH-RPI101
