@@ -22,3 +22,11 @@
   - 기간 : 2020.12.28 - 2020.12.31
   - 역할 : 데이터수집, python
   - 프로젝트 세부내용 : [Yolo v3을 이용한 눈 관상찾기](https://github.com/J-jihee/Project/tree/main/Yolo)
+
+  ## Kaggle Competition - RANZCR CliP - Catheter and Line Position Challenge  
+  - 개발환경/툴 : EfficientNet, Python3
+  - 인원 : 5명
+  - 기간 : 2021.02.08 - 2021.02.26
+  - 역할 : 데이터수집, 논문/알고리즘 분석, 발표 
+  - 프로젝트 세부내용 :
+
